@@ -6,6 +6,7 @@ public class Home_Page_Test
 	{
 		System.out.println("Test2:Home Page");
 		System.out.println("add one more line");
+		System.out.println("Logout----Home");
 		
 	}
 	
